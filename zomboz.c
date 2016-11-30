@@ -43,3 +43,22 @@ int main(void)
 
 	return 0;
 }
+
+/*
+ == 1
+ >= 2 
+ -- 2 
+ =  8 
+ +  3 
+ [] 5
+
+ operands
+
+ number_of_children 4
+ pids 5
+ i 12
+ 0 10
+ 1  3 
+ 10 1
+
+*/
